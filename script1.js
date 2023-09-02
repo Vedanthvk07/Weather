@@ -1,7 +1,7 @@
 const options1 = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '1a634ec9cbmsh78940babbebed4ap15c0fejsn1864ca812b41',
+		'X-RapidAPI-Key': 'API_KEY',
 		'X-RapidAPI-Host': 'air-quality-by-api-ninjas.p.rapidapi.com'
 	}
 };
