@@ -1,0 +1,42 @@
+.row{
+    margin-top: 30px;
+}
+.container{
+    margin: 50px;
+    
+}
+body{
+    background-image: url('sky1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.h1{
+    color: white;
+}
+tr{
+    color: aliceblue;
+}
+.display-6,.disp{
+    font-weight: bolder;
+    color: aliceblue;
+}
+.c1{
+    background-image: url('temp.jpg');
+    opacity:0.3;
+}
+
+.c2{
+    background-image: url('OIP.jpg');
+    opacity:0.3;
+
+}
+.c3{
+    background-image: url('sun.jpeg');
+    opacity:0.3;
+
+}
+.card-body{
+    font-weight: bolder;
+ 
+}
